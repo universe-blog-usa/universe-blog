@@ -342,7 +342,7 @@ window.addEventListener('scroll', function (e) {
      * Run menu scripts 
      */
     init();
-})(window.publiiThemeMenuConfig);
+})(window.siteThemeMenuConfig);
 
 // Load comments
 var comments = document.getElementById("js-comments");  

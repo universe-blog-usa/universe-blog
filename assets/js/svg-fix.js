@@ -5,7 +5,7 @@
     for (var i = 0; i < allItems.length; i++) {
         var item = allItems[i];
         var anchor = '#' + item.getAttribute('xlink:href').split('#')[1];
-        var itemData = window.publiiSvgFix[anchor];
+        var itemData = window.siteSvgFix[anchor];
 
         if(!itemData) {
             console.log('ANCHOR', anchor, i);

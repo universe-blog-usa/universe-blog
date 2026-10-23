@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Universe Blog</title>
-    <link href="https://universe-blog.net/feed.xml" rel="self" />
-    <link href="https://universe-blog.net" />
+    <link href="https://universe-blog-usa.github.io/universe-blog/feed.xml" rel="self" />
+    <link href="https://universe-blog-usa.github.io/universe-blog" />
     <updated>2025-04-14T18:13:13-05:00</updated>
     <author>
         <name>Eze Ahuna</name>
     </author>
-    <id>https://universe-blog.net</id>
+    <id>https://universe-blog-usa.github.io/universe-blog</id>
 
     <entry>
         <title>Hello and Welcome Universe Users</title>
         <author>
             <name>Eze Ahuna</name>
         </author>
-        <link href="https://universe-blog.net/welcome-universe-users-2.html"/>
-        <id>https://universe-blog.net/welcome-universe-users-2.html</id>
+        <link href="https://universe-blog-usa.github.io/universe-blog/welcome-universe-users-2.html"/>
+        <id>https://universe-blog-usa.github.io/universe-blog/welcome-universe-users-2.html</id>
 
         <updated>2021-05-12T23:25:57-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://universe-blog.net/media/posts/6/sun_mountains_landscape.jpg" alt="" />
+                        <img src="https://universe-blog-usa.github.io/universe-blog/media/posts/6/sun_mountains_landscape.jpg" alt="" />
                     Welcome to the Universe Blog, feel free to explore, comment, and add content to this webpage. Enjoy!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://universe-blog.net/media/posts/6/sun_mountains_landscape.jpg" alt="" />
+                    <img src="https://universe-blog-usa.github.io/universe-blog/media/posts/6/sun_mountains_landscape.jpg" alt="" />
                 Welcome to the Universe Blog, feel free to explore, comment, and add content to this webpage. Enjoy!
             ]]>
         </content>
@@ -36,8 +36,8 @@
         <author>
             <name>Eze Ahuna</name>
         </author>
-        <link href="https://universe-blog.net/optimize-your-memory.html"/>
-        <id>https://universe-blog.net/optimize-your-memory.html</id>
+        <link href="https://universe-blog-usa.github.io/universe-blog/optimize-your-memory.html"/>
+        <id>https://universe-blog-usa.github.io/universe-blog/optimize-your-memory.html</id>
 
         <updated>2019-06-17T23:57:44-05:00</updated>
             <summary>

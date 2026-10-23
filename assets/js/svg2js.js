@@ -1,4 +1,4 @@
-window.publiiSvgFix = {
+window.siteSvgFix = {
     
     "#search": {
         "viewbox": "0 0 15 15",
