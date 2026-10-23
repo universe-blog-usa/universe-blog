@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Universe Blog",
     "description": "",
-    "home_page_url": "https://universe-blog.net",
-    "feed_url": "https://universe-blog.net/feed.json",
+    "home_page_url": "https://universe-blog-usa.github.io/universe-blog",
+    "feed_url": "https://universe-blog-usa.github.io/universe-blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Eze Ahuna"
     },
     "items": [
         {
-            "id": "https://universe-blog.net/welcome-universe-users-2.html",
-            "url": "https://universe-blog.net/welcome-universe-users-2.html",
+            "id": "https://universe-blog-usa.github.io/universe-blog/welcome-universe-users-2.html",
+            "url": "https://universe-blog-usa.github.io/universe-blog/welcome-universe-users-2.html",
             "title": "Hello and Welcome Universe Users",
             "summary": "Welcome to the Universe Blog, feel free to explore, comment, and add content to this webpage. Enjoy!",
             "content_html": "Welcome to the Universe Blog, feel free to explore, comment, and add content to this webpage. Enjoy!",
-            "image": "https://universe-blog.net/media/posts/6/sun_mountains_landscape.jpg",
+            "image": "https://universe-blog-usa.github.io/universe-blog/media/posts/6/sun_mountains_landscape.jpg",
             "author": {
                 "name": "Eze Ahuna"
             },
@@ -25,8 +25,8 @@
             "date_modified": "2021-05-12T23:25:57-05:00"
         },
         {
-            "id": "https://universe-blog.net/optimize-your-memory.html",
-            "url": "https://universe-blog.net/optimize-your-memory.html",
+            "id": "https://universe-blog-usa.github.io/universe-blog/optimize-your-memory.html",
+            "url": "https://universe-blog-usa.github.io/universe-blog/optimize-your-memory.html",
             "title": "Optimize your memory!",
             "summary": "Instead of using Google Chrome as a web browser, try using a different browser like Firefox or Microsft Edge because while Google Chrome is a great browser it tends to use a lot of memory to function.",
             "content_html": "Instead of using Google Chrome as a web browser, try using a different browser like Firefox or Microsft Edge because while Google Chrome is a great browser it tends to use a lot of memory to function.",
